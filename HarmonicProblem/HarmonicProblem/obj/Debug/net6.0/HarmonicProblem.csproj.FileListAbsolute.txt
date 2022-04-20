@@ -1,0 +1,15 @@
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\bin\Debug\net6.0\HarmonicProblem.exe
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\bin\Debug\net6.0\HarmonicProblem.deps.json
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\bin\Debug\net6.0\HarmonicProblem.runtimeconfig.json
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\bin\Debug\net6.0\HarmonicProblem.dll
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\bin\Debug\net6.0\HarmonicProblem.pdb
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.csproj.AssemblyReference.cache
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.AssemblyInfoInputs.cache
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.AssemblyInfo.cs
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.csproj.CoreCompileInputs.cache
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.dll
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\refint\HarmonicProblem.dll
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.pdb
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\HarmonicProblem.genruntimeconfig.cache
+D:\Bridglabz\HarmonicProblem\HarmonicProblem\obj\Debug\net6.0\ref\HarmonicProblem.dll
